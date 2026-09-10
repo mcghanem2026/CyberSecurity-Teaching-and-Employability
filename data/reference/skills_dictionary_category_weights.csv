@@ -1,0 +1,29 @@
+competency,Infrastructure Security,Software & Platform Security,Attacks & Defences,Systems Security,Human Organisational & Regulatory Aspects
+Application security testing (SAST / DAST / code review),0.0,1.0,0.0,0.0,0.0
+Business continuity and disaster recovery,0.0,0.0,0.0,0.4,0.6
+Cloud security (AWS / Azure / GCP),0.2,0.1,0.0,0.7,0.0
+Cryptography and PKI / key management,0.4,0.0,0.0,0.6,0.0
+Cyber risk assessment and management,0.0,0.0,0.0,0.0,1.0
+Data protection and privacy engineering,0.0,0.0,0.0,0.2,0.8
+DevSecOps and CI/CD security,0.0,0.7,0.0,0.3,0.0
+Digital forensics and investigation,0.0,0.0,0.9,0.0,0.1
+ISO/IEC 27001 and ISMS implementation,0.0,0.0,0.0,0.0,1.0
+IT general controls and audit (SOX / ITGC),0.0,0.0,0.0,0.6,0.4
+Identity and access management (IAM / PAM),0.0,0.0,0.0,1.0,0.0
+Incident response and management,0.0,0.0,1.0,0.0,0.0
+Malware analysis,0.0,0.0,1.0,0.0,0.0
+Network security (firewalls / IDS-IPS / segmentation),1.0,0.0,0.0,0.0,0.0
+OT / ICS security,1.0,0.0,0.0,0.0,0.0
+Operating-system and endpoint hardening,0.0,0.0,0.3,0.7,0.0
+Penetration testing and red teaming,0.0,0.6,0.4,0.0,0.0
+Physical and telecommunications security,1.0,0.0,0.0,0.0,0.0
+Regulatory compliance (GDPR / NIS / PCI DSS / DORA),0.0,0.0,0.0,0.0,1.0
+SIEM operation and security monitoring,0.0,0.0,1.0,0.0,0.0
+Secure software development (SDLC / secure coding),0.0,1.0,0.0,0.0,0.0
+Security architecture and zero trust,0.3,0.0,0.0,0.7,0.0
+Security awareness and human factors,0.0,0.0,0.0,0.0,1.0
+Security policy and governance,0.0,0.0,0.0,0.0,1.0
+Third-party and supply-chain risk,0.0,0.3,0.0,0.0,0.7
+Threat intelligence and threat hunting,0.0,0.0,1.0,0.0,0.0
+Vulnerability management,0.2,0.3,0.5,0.0,0.0
+Web and API security,0.0,1.0,0.0,0.0,0.0

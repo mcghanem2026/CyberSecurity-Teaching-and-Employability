@@ -1,0 +1,58 @@
+competency,knowledge_area,weight
+ISO/IEC 27001 and ISMS implementation,Risk Management & Governance,0.7
+ISO/IEC 27001 and ISMS implementation,Law & Regulation,0.3
+Cyber risk assessment and management,Risk Management & Governance,1.0
+Regulatory compliance (GDPR / NIS / PCI DSS / DORA),Law & Regulation,0.7
+Regulatory compliance (GDPR / NIS / PCI DSS / DORA),Privacy & Online Rights,0.3
+Security policy and governance,Risk Management & Governance,0.6
+Security policy and governance,Human Factors,0.4
+Third-party and supply-chain risk,Risk Management & Governance,0.7
+Third-party and supply-chain risk,Secure Software Lifecycle,0.3
+IT general controls and audit (SOX / ITGC),Risk Management & Governance,0.4
+IT general controls and audit (SOX / ITGC),Authentication Authorisation & Accountability,0.4
+IT general controls and audit (SOX / ITGC),Operating Systems & Virtualisation Security,0.2
+Business continuity and disaster recovery,Risk Management & Governance,0.6
+Business continuity and disaster recovery,Distributed Systems Security,0.4
+Data protection and privacy engineering,Privacy & Online Rights,0.6
+Data protection and privacy engineering,Cryptography,0.2
+Data protection and privacy engineering,Law & Regulation,0.2
+Identity and access management (IAM / PAM),Authentication Authorisation & Accountability,0.8
+Identity and access management (IAM / PAM),Distributed Systems Security,0.2
+Security architecture and zero trust,Distributed Systems Security,0.4
+Security architecture and zero trust,Authentication Authorisation & Accountability,0.3
+Security architecture and zero trust,Network Security,0.3
+Cloud security (AWS / Azure / GCP),Distributed Systems Security,0.5
+Cloud security (AWS / Azure / GCP),Authentication Authorisation & Accountability,0.2
+Cloud security (AWS / Azure / GCP),Network Security,0.2
+Cloud security (AWS / Azure / GCP),Secure Software Lifecycle,0.1
+Cryptography and PKI / key management,Cryptography,0.6
+Cryptography and PKI / key management,Applied Cryptography,0.4
+Operating-system and endpoint hardening,Operating Systems & Virtualisation Security,0.7
+Operating-system and endpoint hardening,Malware & Attack Technologies,0.3
+Network security (firewalls / IDS-IPS / segmentation),Network Security,1.0
+OT / ICS security,Cyber-Physical Systems Security,0.7
+OT / ICS security,Network Security,0.3
+SIEM operation and security monitoring,Security Operations & Incident Management,1.0
+Incident response and management,Security Operations & Incident Management,0.8
+Incident response and management,Forensics,0.2
+Threat intelligence and threat hunting,Adversarial Behaviours,0.6
+Threat intelligence and threat hunting,Security Operations & Incident Management,0.4
+Digital forensics and investigation,Forensics,0.9
+Digital forensics and investigation,Law & Regulation,0.1
+Malware analysis,Malware & Attack Technologies,1.0
+Vulnerability management,Security Operations & Incident Management,0.5
+Vulnerability management,Software Security,0.3
+Vulnerability management,Network Security,0.2
+Penetration testing and red teaming,Adversarial Behaviours,0.4
+Penetration testing and red teaming,Software Security,0.3
+Penetration testing and red teaming,Web & Mobile Security,0.3
+Secure software development (SDLC / secure coding),Secure Software Lifecycle,0.6
+Secure software development (SDLC / secure coding),Software Security,0.4
+Application security testing (SAST / DAST / code review),Software Security,0.6
+Application security testing (SAST / DAST / code review),Web & Mobile Security,0.4
+Web and API security,Web & Mobile Security,1.0
+DevSecOps and CI/CD security,Secure Software Lifecycle,0.7
+DevSecOps and CI/CD security,Distributed Systems Security,0.3
+Security awareness and human factors,Human Factors,1.0
+Physical and telecommunications security,Physical Layer & Telecommunications Security,0.6
+Physical and telecommunications security,Hardware Security,0.4

@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite the associated paper."
+title: "CyBOK-informed analysis of UK cyber-security degrees: processed data and code"
+type: dataset
+authors:
+  - family-names: Ghanem
+    given-names: Mohamed Chahine
+    affiliation: "Keele University; University of Liverpool"
+  - family-names: Hills
+    given-names: Laura
+    affiliation: "University of Liverpool"
+  - family-names: Patel
+    given-names: Preeti
+    affiliation: "London Metropolitan University"
+  - family-names: de Quincey
+    given-names: Ed
+    affiliation: "Keele University"
+version: 1.0.0
+date-released: 2026-09-10
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Necessary but not sufficient: A CyBOK-informed documentary analysis of curriculum, certification and graduate employability in UK cyber security degrees"
+  authors:
+    - family-names: Ghanem
+      given-names: Mohamed Chahine
+    - family-names: Hills
+      given-names: Laura
+    - family-names: Patel
+      given-names: Preeti
+    - family-names: de Quincey
+      given-names: Ed
+  journal: "International Journal of Educational Research"
+  year: 2026
+  notes: "Manuscript under review"

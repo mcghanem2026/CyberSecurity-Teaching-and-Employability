@@ -1,0 +1,22 @@
+knowledge_area,cybok_category
+Risk Management & Governance,Human Organisational & Regulatory Aspects
+Law & Regulation,Human Organisational & Regulatory Aspects
+Human Factors,Human Organisational & Regulatory Aspects
+Privacy & Online Rights,Human Organisational & Regulatory Aspects
+Malware & Attack Technologies,Attacks & Defences
+Adversarial Behaviours,Attacks & Defences
+Security Operations & Incident Management,Attacks & Defences
+Forensics,Attacks & Defences
+Cryptography,Systems Security
+Operating Systems & Virtualisation Security,Systems Security
+Distributed Systems Security,Systems Security
+Formal Methods for Security,Systems Security
+Authentication Authorisation & Accountability,Systems Security
+Software Security,Software & Platform Security
+Web & Mobile Security,Software & Platform Security
+Secure Software Lifecycle,Software & Platform Security
+Applied Cryptography,Infrastructure Security
+Network Security,Infrastructure Security
+Hardware Security,Infrastructure Security
+Cyber-Physical Systems Security,Infrastructure Security
+Physical Layer & Telecommunications Security,Infrastructure Security

@@ -1,0 +1,34 @@
+role_family,competency,weight
+governance_and_risk,ISO/IEC 27001 and ISMS implementation,0.14
+governance_and_risk,Cyber risk assessment and management,0.14
+governance_and_risk,Regulatory compliance (GDPR / NIS / PCI DSS / DORA),0.12
+governance_and_risk,Security policy and governance,0.10
+governance_and_risk,Third-party and supply-chain risk,0.08
+governance_and_risk,IT general controls and audit (SOX / ITGC),0.12
+governance_and_risk,Business continuity and disaster recovery,0.06
+governance_and_risk,Data protection and privacy engineering,0.08
+governance_and_risk,Identity and access management (IAM / PAM),0.08
+governance_and_risk,Security architecture and zero trust,0.04
+governance_and_risk,Cloud security (AWS / Azure / GCP),0.04
+security_operations,SIEM operation and security monitoring,0.16
+security_operations,Incident response and management,0.14
+security_operations,Threat intelligence and threat hunting,0.10
+security_operations,Digital forensics and investigation,0.06
+security_operations,Malware analysis,0.04
+security_operations,Vulnerability management,0.12
+security_operations,Network security (firewalls / IDS-IPS / segmentation),0.10
+security_operations,Operating-system and endpoint hardening,0.08
+security_operations,Identity and access management (IAM / PAM),0.08
+security_operations,Cloud security (AWS / Azure / GCP),0.06
+security_operations,OT / ICS security,0.02
+security_operations,Business continuity and disaster recovery,0.02
+security_operations,Cryptography and PKI / key management,0.02
+application_security,Secure software development (SDLC / secure coding),0.22
+application_security,Application security testing (SAST / DAST / code review),0.18
+application_security,Web and API security,0.14
+application_security,DevSecOps and CI/CD security,0.14
+application_security,Penetration testing and red teaming,0.10
+application_security,Cloud security (AWS / Azure / GCP),0.08
+application_security,Identity and access management (IAM / PAM),0.06
+application_security,Cryptography and PKI / key management,0.04
+application_security,Vulnerability management,0.04

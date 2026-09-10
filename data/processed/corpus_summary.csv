@@ -1,0 +1,7 @@
+group,n_programmes,definition,source_in_paper
+all,51,NCSC-certified UK cyber-security programme records with sufficient public documentation to apportion credit,Section 3.2
+masters,41,"Master's-level awards (MSc, MSci, MEng) classified by award title and level",Section 3.2
+bachelors_integrated,10,"Bachelor's and integrated-master's provision (exploratory subsample)",Section 3.2
+russell_group,15,Programmes at Russell Group providers,Table 4
+other_providers,36,"Non-Russell-Group remainder of the corpus (post-1992 and other pre-1992 institutions; heterogeneous residual category)",Table 4
+zero_hor_credit,10,"Programmes recording no mapped credit in Human, Organisational & Regulatory Aspects (19.6% of corpus)",Section 4.1

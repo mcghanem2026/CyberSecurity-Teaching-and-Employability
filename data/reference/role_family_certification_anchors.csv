@@ -1,0 +1,8 @@
+role_family,certification,weight
+governance_and_risk,CISM,0.50
+governance_and_risk,CRISC,0.35
+governance_and_risk,CISSP,0.15
+security_operations,CISSP,0.50
+security_operations,SSCP,0.50
+application_security,CISSP,0.60
+application_security,SSCP,0.40
